@@ -8,7 +8,6 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=diegoguillen70+guillen_diego75">「 Google Me 」</a>
     <br>
     「 I am a full stack web application developer from <b>Naples FL</b> 」
     <br>
