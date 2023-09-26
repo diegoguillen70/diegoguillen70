@@ -23,7 +23,7 @@
  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B0Yu2cR0PQ4mF0VD5Kt%2FkyQ%3D%3D" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
- <a href="https://instagram.com/guillen_deigo75" target="_blank">
+ <a href="https://instagram.com/guillen_diego75" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
  <a href="https://facebook.com/guillen_diego75" target="_blank">
