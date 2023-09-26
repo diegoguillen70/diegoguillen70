@@ -24,10 +24,10 @@
 </p>
 
 <p align="center">
- <a href="https://alsiam.com" target="blank">
+ <a href="https://diegoguillen70.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="https://linkedin.com/in/al-siam](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B0Yu2cR0PQ4mF0VD5Kt%2FkyQ%3D%3D" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
  <!-- <a href="https://dev.to/alsiam" target="_blank">
